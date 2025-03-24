@@ -1,4 +1,4 @@
-# store_management
+# Store Management
 
 A new Flutter project.
 
